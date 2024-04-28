@@ -1,0 +1,98 @@
+/* @import url("fontawesome-all.min.css"); */
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
+
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #26403d;
+  --ifm-color-primary-dark: #223a37;
+  --ifm-color-primary-darker: #203634;
+  --ifm-color-primary-darkest: #1b2d2b;
+  --ifm-color-primary-light: #2a4643;
+  --ifm-color-primary-lighter: #2c4a46;
+  --ifm-color-primary-lightest: #31534f;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme="dark"] {
+  --ifm-color-primary: #7ba69e;
+  --ifm-color-primary-dark: #6a9a91;
+  --ifm-color-primary-darker: #63938a;
+  --ifm-color-primary-darkest: #517972;
+  --ifm-color-primary-light: #8cb2ab;
+  --ifm-color-primary-lighter: #95b7b1;
+  --ifm-color-primary-lightest: #afc9c4;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Custom changes start here */
+
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.75em;
+}
+
+/* Top Navbar */
+
+.navbar {
+  background-color: var(--ifm-color-primary);
+}
+
+.navbar__item,
+.navbar {
+  color: #ffffff;
+}
+
+.navbar button:hover {
+  color: var(--ifm-color-primary-light);
+}
+
+.navbar__item:hover {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+html[data-theme="dark"] .navbar .navbar__logo {
+  content: url(./../../static/img/logo_dark_mode.png);
+}
+
+/* Github button */
+
+.article-btn {
+  background-color: var(--ifm-color-primary);
+}
+.article-btn:hover {
+  background-color: var(--ifm-color-primary-lightest);
+}
+
+/* Footer */
+
+footer a:hover {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer__link-separator {
+  display: none;
+}
+
+.footer__link-item {
+  margin-right: 0.5em;
+  margin-left: 0.5em;
+}
+
+.footer__link-item:first-child {
+  margin-left: 0 !important;
+}
+
+.footer__link-item:last-child {
+  margin-right: 0 !important;
+}
