@@ -12,49 +12,49 @@ slug: skills
 
 - Docs as code
 - Open source documentation
-- Technical communication
 - Product documentation
+- Technical communication
 
 ## Content
 
 - API docs
-- Implementation docs
-- User guides
 - Developer docs
+- Implementation docs
 - Release notes
+- User guides
 
 ## Knowledge Management Tools
 
 - Confluence
-- Readme
-- GitBook
 - Docusaurus
+- GitBook
+- Readme
 - Wordpress
 
 ## API Management Tools
 
 - Postman
-- Swagger UI
 - Spotlight Studio
+- Swagger UI
 
 ## Platforms & Apps
 
-- GitHub
 - Digital Ocean
-- Linode
+- GitHub
 - Jira
-- Slack
-- Microsoft Visio
+- Linode
 - Microsoft Teams
+- Microsoft Visio
 - SharePoint
+- Slack
 - SnagIt
 
 ## Languages, Frameworks, & Tools
 
 - Bootstrap
 - CSS
-- HTML
-- SASS
-- Markdown
 - curl
+- HTML
+- Markdown
 - PowerShell
+- SASS
