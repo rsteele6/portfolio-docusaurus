@@ -8,53 +8,39 @@ slug: skills
 
 # Skills
 
-## Core Skills
+## Documentation & Writing Tools
 
-- Docs as code
-- Open source documentation
-- Product documentation
-- Technical communication
-
-## Content
-
-- API docs
-- Developer docs
-- Implementation docs
-- Release notes
-- User guides
-
-## Knowledge Management Tools
-
+- Markdown
+- HTML5 & CSS
 - Confluence
-- Docusaurus
 - GitBook
+- Docusaurus
 - Readme
-- Wordpress
-
-## API Management Tools
-
 - Postman
 - Spotlight Studio
 - Swagger UI
+- Google Docs
+- Microsoft Word
+- SharePoint
 
-## Platforms & Apps
+## Content Development
 
-- Digital Ocean
+- API docs
+- Developer docs
+- Software guides
+- Release notes
+- User manuals
+
+## Version Control & Collaboration
+
+- Git
 - GitHub
 - Jira
-- Linode
-- Microsoft Teams
-- Microsoft Visio
-- SharePoint
 - Slack
-- SnagIt
+- Atlas
 
-## Languages, Frameworks, & Tools
+## Technical Systems
 
-- Bootstrap
-- CSS
-- curl
-- HTML
-- Markdown
-- PowerShell
-- SASS
+- Nutanix
+- Windows Server
+- VMware

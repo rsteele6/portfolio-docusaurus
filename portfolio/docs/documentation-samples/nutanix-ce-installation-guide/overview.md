@@ -5,8 +5,6 @@ slug: nutanix-overview
 description: A field installation guide for a fictitious Managed Services Provider (MSP) called RS Tech Services, this guide allows field engineers to perform initial deployments of Nutanix Community Edition at customer sites quickly and efficiently, necessitating fewer calls to senior technical personnel.
 ---
 
-![](../../static/img/nutanix-cover.png)
-
 # Overview
 
 A field installation guide for a fictitious Managed Services Provider (MSP) called RS Tech Services, this guide allows field engineers to perform initial deployments of Nutanix Community Edition at customer sites quickly and efficiently, necessitating fewer calls to senior technical personnel.

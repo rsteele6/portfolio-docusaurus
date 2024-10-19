@@ -27,7 +27,7 @@ cluster stop
 
 _Figure 5: Cluster Stop Output_
 
-![](../../static/img/nutanix_ce_fig5.png)
+![Cluster stop output](../../../static/img/nutanix_ce_fig5.png)
 
 Source: Nutanix. (2020). “Getting Started with Nutanix Community Edition”
 

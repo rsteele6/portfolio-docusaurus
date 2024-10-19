@@ -4,11 +4,11 @@ id: Overview
 slug: overview
 ---
 
-![](../../static/img/usa-map.jpg)
+![USA map](../../../static/img/usa-map.jpg)
 
 # Overview
 
-This is a spec document I created for a [Node.js REST API](./../programming-projects/states-api.md) I built as a final project for a backend dev course. The API enables you to retrieve, add, update and delete specific data points about a single US state, or all of them.
+This is a spec document I created for a [Node.js REST API](./../../programming-projects/states-api.md) I built as a final project for a backend dev course. The API enables you to retrieve, add, update and delete specific data points about a single US state, or all of them.
 
 ## Description
 

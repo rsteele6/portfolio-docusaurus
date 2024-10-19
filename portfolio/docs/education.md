@@ -4,7 +4,7 @@ id: Education
 slug: education
 ---
 
-![](../static/img/education_banner.jpg)
+![Light bulb](../static/img/education_banner.jpg)
 
 # Education
 

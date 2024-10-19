@@ -4,7 +4,7 @@ id: Welcome
 slug: /
 ---
 
-![](../static/img/welcome_banner.jpg)
+![Desk with laptop and notepad](../static/img/welcome_banner.jpg)
 
 # Welcome
 

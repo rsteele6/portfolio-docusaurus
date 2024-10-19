@@ -44,4 +44,4 @@ _Source: Nutanix. (2020). “Recommendation on Firewall Ports Config, KB 1478”
 
 _Figure 1: Basic Communication Diagram_
 
-![](../../../static/img/nutanix_ce_fig1.png)
+![Basic communication diagram](../../../../static/img/nutanix_ce_fig1.png)

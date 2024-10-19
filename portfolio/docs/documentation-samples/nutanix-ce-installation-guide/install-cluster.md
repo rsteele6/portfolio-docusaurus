@@ -24,7 +24,7 @@ The deployment process destroys any pre-existing data on all drives!
 
 _Figure 2: Initial Install Screen_
 
-![](../../static/img/nutanix_ce_fig2.png)
+![Initial install screen](../../../static/img/nutanix_ce_fig2.png)
 
 Source: Nutanix. (2020). “Getting Started with Nutanix Community Edition”
 
@@ -42,7 +42,7 @@ If you are creating a single-node cluster, the installer will also prompt you to
 
 _Figure 3: Post-Install Configuration_
 
-![](../../static/img/nutanix_ce_fig3.png)
+![](../../../static/img/nutanix_ce_fig3.png)
 
 Source: Nutanix. (2020). “Getting Started with Nutanix Community Edition”
 
@@ -52,7 +52,7 @@ When the installation completes, you will see a “Imaging Process Completed Suc
 
 _Figure 4: Prism Element Initial Login Screen_
 
-![](../../static/img/nutanix_ce_fig4.png)
+![](../../../static/img/nutanix_ce_fig4.png)
 
 Source: Nutanix. (2020). “Getting Started with Nutanix Community Edition”
 

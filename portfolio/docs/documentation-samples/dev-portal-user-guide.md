@@ -1,11 +1,11 @@
 ---
-sidebar_position: 7
+sidebar_position: 2
 id: Dev Portal User Guide
 slug: dev-portal-user-guide
 description: This is a user guide for my employer's dev portal, covering all features and functionality. It's continually updated as required.
 ---
 
-![](../static/img/user-manual.jpg)
+![User manual](../../static/img/user-manual.jpg)
 
 # [User Guide](https://docs.akoya.com/docs/data-recipient-hub-user-manual)
 
@@ -23,7 +23,7 @@ I worked with internal developers, SMEs, and marketing specialists to draft the 
 
 ## Impact
 
-Support tickets and emails with routine questions regarding the portal were reduced, and the company received several complements from customers.
+Support tickets and emails with routine questions regarding the portal were reduced, and the company received several complements from customers, including one which stated, "This is exactly what we needed!"
 
 ## Links
 
