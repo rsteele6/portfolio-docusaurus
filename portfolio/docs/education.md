@@ -16,11 +16,23 @@ President, Sigma Tau Delta local chapter
 
 ---
 
+## Community College of Rhode Island
+
+### Associate of Science, Computer & Information Processing
+
+Computer programming concentration. Languages studied:
+
+- C#
+- C++
+- Java
+- HTML
+- CSS
+
+---
+
 ## Fort Hays State University
 
-### Bachelor of Science, Computer Science candidate
-
-Ongoing
+### Computer Science coursework
 
 Languages/frameworks studied:
 
@@ -31,20 +43,6 @@ Languages/frameworks studied:
 - JavaScript
 - Node.js
 - Express
-
----
-
-## Community College of Rhode Island
-
-### Associate of Science, Computer & Information Processing | 2017 - 2020
-
-Computer programming concentration. Languages studied:
-
-- C#
-- C++
-- Java
-- HTML
-- CSS
 
 ---
 
