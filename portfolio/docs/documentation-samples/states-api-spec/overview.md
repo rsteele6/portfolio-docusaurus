@@ -8,13 +8,13 @@ slug: overview
 
 # Overview
 
-This is a spec document I created for a [Node.js REST API](./../../programming-projects/states-api.md) I built as a final project for a backend dev course. The API enables you to retrieve, add, update and delete specific data points about a single US state, or all of them.
+This document is an OpenAPI spec I created for a [Node.js REST API](./../../programming-projects/states-api.md) developed as a final project for a backend development course. The API allows users to retrieve, add, update, and delete data points about individual U.S. states or all states.
 
 ## Description
 
-I created an API in Node.js (deployed in Heroku) for a backend dev course. Afterward, I decided to create an OpenAPI 3.1 specification document for it to practice and demonstrate my skills in this area.
+I built a Node.js API as part of a backend development course. Following the project, I created an OpenAPI 3.1 specification document to showcase my skills in API documentation and specification.
 
-The API allows users to retrieve, add, update, and delete data about one or more US states. All data is stored in a MongoDB database hosted by Heroku. Responses are returned in JSON.
+The API supports operations to retrieve, add, update, and delete information about one or more U.S. states. Data was stored in a MongoDB database hosted on Heroku, and responses are returned in JSON format.
 
 ## Technologies used
 
@@ -22,4 +22,4 @@ The API allows users to retrieve, add, update, and delete data about one or more
 
 ## Links
 
-- [View the spec](/projects/states-api-spec)
+- [View the API specification](/projects/states-api-spec)

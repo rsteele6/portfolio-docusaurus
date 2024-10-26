@@ -2,25 +2,29 @@
 sidebar_position: 1
 id: Overview
 slug: nutanix-overview
-description: A field installation guide for a fictitious Managed Services Provider (MSP) called RS Tech Services, this guide allows field engineers to perform initial deployments of Nutanix Community Edition at customer sites quickly and efficiently, necessitating fewer calls to senior technical personnel.
+description: This field installation guide, created for a fictitious Managed Services Provider (MSP) called RS Tech Services, enables field engineers to efficiently perform initial deployments of Nutanix Community Edition at customer sites, reducing the need for calls to senior technical personnel.
 ---
 
 # Overview
 
-A field installation guide for a fictitious Managed Services Provider (MSP) called RS Tech Services, this guide allows field engineers to perform initial deployments of Nutanix Community Edition at customer sites quickly and efficiently, necessitating fewer calls to senior technical personnel.
+This field installation guide was created for a fictitious Managed Services Provider (MSP), RS Tech Services, to assist field engineers in deploying Nutanix Community Edition at customer sites quickly and efficiently, reducing the need for calls to senior technical staff.
 
 ## Description
 
-A field installation guide for a fictitious Managed Services Provider (MSP) called RS Tech Services, this guide allows field engineers to perform initial deployments of Nutanix Community Edition at customer sites quickly and efficiently, necessitating fewer calls to senior technical personnel. Nutanix is a software-defined hyper-converged platform which combines storage, computing, and virtualization. Community Edition is a free version of this platform intended for testing and non-production use cases.
+Designed for RS Tech Services, this installation guide helps field engineers streamline initial deployments of Nutanix Community Edition, a software-defined hyper-converged platform that integrates storage, computing, and virtualization. The Community Edition, a free version of Nutanix, is intended for testing and non-production purposes.
 
 ## Problem
 
-In this fictional scenario, RS Tech Services was receiving customer complaints regarding configuration errors made by field personnel during installation. It was also difficult and time-consuming to troubleshoot many of these issues because field techs were not creating as-built documentation. These issues were causing delays with customer projects.
+In this scenario, RS Tech Services faced recurring customer complaints due to configuration errors made by field personnel during installation. Troubleshooting these issues was also challenging and time-intensive because field technicians were not consistently producing as-built documentation, leading to project delays.
 
 ## Solution
 
-I created an end-to-end field installation guide that included a network info checklist that techs could use in as-built documentation.
+To address these issues, I developed a comprehensive installation guide, including a network information checklist that technicians could use to complete as-built documentation.
 
 ## Impact
 
-The guide enabled technicians to perform standardized deployments for customers while reducing human error. All system IPs, usernames, and passwords were documented for customers before leaving the site, and the result was a 40% decrease in installation-related support calls in the 90 days following publication.
+The guide enabled technicians to perform standardized deployments while reducing human error. All system IPs, usernames, and passwords were documented before technicians left the customer site, resulting in a 40% decrease in installation-related support calls within 90 days of the guide's release.
+
+## Technologies Used
+
+- Microsoft Word

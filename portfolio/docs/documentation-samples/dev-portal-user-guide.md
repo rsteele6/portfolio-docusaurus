@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 id: Dev Portal User Guide
 slug: dev-portal-user-guide
 description: This is a user guide for my employer's dev portal, covering all features and functionality. It's continually updated as required.
@@ -7,23 +7,28 @@ description: This is a user guide for my employer's dev portal, covering all fea
 
 ![User manual](../../static/img/user-manual.jpg)
 
-# [User Guide](https://docs.akoya.com/docs/data-recipient-hub-user-manual)
+# [Dev Portal User Guide](https://docs.akoya.com/docs/data-recipient-hub-user-manual)
 
 ## Description
 
-This is a user guide for my employer's dev portal, covering all features and functionality. It's continually updated as required.
+This user guide documents all features and functionalities of my employer's dev portal, with continuous updates as needed.
 
 ## Problem
 
-My employer, a Boston-area software company, previously did not have user documentation for its dev portal. The portal allows developers to request sandbox/production access to the company's product, reset client secrets, and view documentation. As a result, customer service and support staff were fielding redundant questions via email and support tickets.
+Previously, my employer, a Boston-area software company, lacked user documentation for its dev portal. The portal enables developers to request sandbox and production access to the company’s product, reset client secrets, and access documentation. In the absence of formal documentation, customer service and support staff handled numerous repetitive inquiries via email and support tickets.
 
 ## Contribution
 
-I worked with internal developers, SMEs, and marketing specialists to draft the first iteration of a comprehensive user manual covering all features. This is a living document that is updated by all members of the docs team as new releases come out.
+I collaborated with internal developers, subject matter experts (SMEs), and marketing specialists to draft the first version of a comprehensive user manual covering all portal features. This is a living document, updated by the documentation team with each new release.
 
 ## Impact
 
-Support tickets and emails with routine questions regarding the portal were reduced, and the company received several complements from customers, including one which stated, "This is exactly what we needed!"
+The guide significantly reduced routine support tickets and email inquiries about the portal. Customers responded positively, with one remarking, "This is exactly what we needed!"
+
+## Technologies Used
+
+- Confluence
+- Readme
 
 ## Links
 
