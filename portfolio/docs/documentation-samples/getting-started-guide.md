@@ -7,7 +7,7 @@ description: This is a re-vamp of my employer's Getting Started Guide.
 
 ![User manual](../../static/img/user-manual.jpg)
 
-# [Getting Started Guide](https://docs.akoya.com/docs/getting-started)
+# <a href="https://docs.akoya.com/docs/getting-started" target="_blank">Getting Started Guide</a>
 
 ## Description
 
@@ -35,4 +35,6 @@ The updated guide reduced support tickets related to onboarding, and customer de
 
 ## Links
 
-- [View on company site](https://docs.akoya.com/docs/getting-started)
+<ul>
+    <li><a href="https://docs.akoya.com/docs/getting-started" target="_blank">View on company site</a></li>
+</ul>

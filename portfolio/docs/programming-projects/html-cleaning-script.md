@@ -6,7 +6,7 @@ slug: html-cleaning-script
 
 ![](../../static/img/html.jpg)
 
-# HTML Cleaning Script
+# <a href="https://github.com/rsteele6/html-cleaning-script" target="_blank">HTML Cleaning Script</a>
 
 ## Description
 

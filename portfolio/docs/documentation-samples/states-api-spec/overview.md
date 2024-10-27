@@ -18,8 +18,12 @@ The API supports operations to retrieve, add, update, and delete information abo
 
 ## Technologies used
 
-- [Redocusaurus plugin](https://redocusaurus.vercel.app/docs/)
+<ul>
+    <li><a href="https://redocusaurus.vercel.app/docs/" target="_blank">Redocusaurus plugin</a></li>
+</ul>
 
 ## Links
 
-- [View the API specification](/projects/states-api-spec)
+<ul>
+    <li><a href="/projects/states-api-spec" target="_blank">View the API specification</a></li>
+</ul>

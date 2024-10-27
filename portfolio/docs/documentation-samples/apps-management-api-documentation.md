@@ -7,7 +7,7 @@ description: This is a documentation set, including a specification document, fo
 
 ![REST API diagram](../../static/img/rest.png)
 
-# [Apps Management API Documentation](https://docs.akoya.com/reference/management-api-v20-guide)
+# <a href="https://docs.akoya.com/reference/management-api-v20-guide" target="_blank">Apps Management API Documentation</a>
 
 ## Description
 
@@ -28,4 +28,6 @@ I supported the documentation lead by drafting and proofreading the user and mig
 
 ## Links
 
-- [View the documentation](https://docs.akoya.com/reference/management-api-v20-guide)
+<ul>
+    <li><a href="https://docs.akoya.com/reference/management-api-v20-guide" target="_blank">View the documentation</a></li>
+</ul>

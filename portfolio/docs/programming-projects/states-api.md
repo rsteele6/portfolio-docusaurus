@@ -6,7 +6,7 @@ slug: states-api
 
 ![](../../static/img/usa-map.jpg)
 
-# States API
+# <a href="https://github.com/rsteele6/States-API" target="_blank">States API</a>
 
 ## Description
 
@@ -22,7 +22,9 @@ The API allows users to retrieve, add, update, and delete data about one or more
 
 ## Links
 
-- [View the spec](/projects/states-api-spec)
+<ul>
+    <li><a href="/projects/states-api-spec" target="_blank">View the spec</a></li>
+</ul>
 
 <br /><br />
 

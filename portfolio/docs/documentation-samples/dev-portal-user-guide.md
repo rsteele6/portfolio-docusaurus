@@ -7,7 +7,7 @@ description: This is a user guide for my employer's dev portal, covering all fea
 
 ![User manual](../../static/img/user-manual.jpg)
 
-# [Dev Portal User Guide](https://docs.akoya.com/docs/data-recipient-hub-user-manual)
+# <a href="https://docs.akoya.com/docs/data-recipient-hub-user-manual" target="_blank">Dev Portal User Guide</a>
 
 ## Description
 
@@ -32,4 +32,6 @@ The guide significantly reduced routine support tickets and email inquiries abou
 
 ## Links
 
-- [View on company site](https://docs.akoya.com/docs/data-recipient-hub-user-manual)
+<ul>
+    <li><a href="https://docs.akoya.com/docs/data-recipient-hub-user-manual" target="_blank">View on company site</a></li>
+</ul>
