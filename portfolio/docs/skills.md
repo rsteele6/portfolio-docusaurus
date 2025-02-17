@@ -17,7 +17,7 @@ slug: skills
 - Docusaurus
 - Readme
 - Postman
-- Spotlight Studio
+- Stoplight
 - Swagger UI
 - Google Docs
 - Microsoft Word
@@ -30,6 +30,7 @@ slug: skills
 - Software guides
 - Release notes
 - User manuals
+- Process docs
 
 ## Version Control & Collaboration
 
@@ -37,6 +38,7 @@ slug: skills
 - GitHub
 - Jira
 - Slack
+- Teams
 - Atlas
 
 ## Technical Systems

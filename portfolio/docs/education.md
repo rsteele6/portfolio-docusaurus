@@ -50,13 +50,6 @@ Languages/frameworks studied:
 
 ## Courses & Certifications
 
-### Computer Science & IT
-
-<ul>
-    <li><a href="https://ude.my/UC-cd8670ba-ad9e-4a86-9358-557fe11cee73" target="_blank">Machine Learning for Absolute Beginners - Level 1</a> | Apr 2024</li>
-    <li><a href="https://courses.edx.org/certificates/b427488d80654dc28c102a0262e20ea5" target="_blank">DEV262x: Logic and Computational Thinking</a> | May 2019</li>
-</ul>
-
 ### Technical Writing
 
 <ul>
@@ -67,4 +60,18 @@ Languages/frameworks studied:
 
 <ul>
     <li><a href="https://university.atlassian.com/student/award/j3EcUiufcnU37MD6BpSd4nfK" target="_blank">Confluence Fundamentals Badge</a> | Feb 2024</li>
+</ul>
+
+### AI
+
+<ul>
+    <li><a href="https://www.credly.com/badges/b51b8365-9514-454f-82cd-2adf21b0a4c8" target="_blank">Google Prompting Essentials Badge</a> | Feb 2025</li>
+    <li><a href="https://www.credly.com/badges/9fff1a22-7539-4af1-90c1-d898772e1ef1/public_url" target="_blank">Google AI Essentials Badge</a> | Jan 2025</li>
+</ul>
+
+### Computer Science & IT
+
+<ul>
+    <li><a href="https://ude.my/UC-cd8670ba-ad9e-4a86-9358-557fe11cee73" target="_blank">Machine Learning for Absolute Beginners - Level 1</a> | Apr 2024</li>
+    <li><a href="https://courses.edx.org/certificates/b427488d80654dc28c102a0262e20ea5" target="_blank">DEV262x: Logic and Computational Thinking</a> | May 2019</li>
 </ul>
